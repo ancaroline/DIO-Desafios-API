@@ -1,4 +1,4 @@
-# DIO-Desafios-API
+# DIO-Desafios-API TMDB
 Desafios propostos por: https://github.com/lira1705/mentoria-typescript/tree/main/src/desafios  
 
  :point_right: O Desafio 4 está na pasta src titulado como: index.ts. Também está na pasta dist, titulado como: desafio4.js. O index.html é referente ao Desafio 4.
