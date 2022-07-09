@@ -10,7 +10,7 @@ let employee = {};
 employee.code = 10;
 employee.name = "John";
 ```
-[Minha resolução do Desafio 1](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/desafios/desafio1.ts)
+[Minha solução para o Desafio 1](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/desafios/desafio1.ts)
 
 Desafio 2: 
   > Como podemos melhorar o esse código usando TS? 
@@ -37,7 +37,7 @@ let pessoa4 = {
     profissao = "padeiro"
 }
 ```
-[Minha resolução do Desafio 2](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/desafios/desafio2.ts)
+[Minha solução para o Desafio 2](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/desafios/desafio2.ts)
 
 Desafio 3:
   >  O código abaixo tem alguns erros e não funciona como deveria. Você pode identificar quais são e corrigi-los em um arquivo TS?
@@ -65,9 +65,9 @@ botaoLimpar.addEventListener('click', function () {
     limparSaldo();
 });
 ```
-[Minha resolução do Desafio 3 - TS](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/desafios/desafio3.ts)  
+[Minha solução para o Desafio 3 - TS](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/desafios/desafio3.ts)  
 
-[Minha resolução do Desafio 3 - HTML](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/desafios/desafio3.html)
+[Minha solução para o Desafio 3 - HTML](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/desafios/desafio3.html)
 
 Desafio 4: 
 
@@ -83,8 +83,8 @@ Desafio 4:
  Atenção para o listener do botão login-button que devolve o sessionID do usuário
  É necessário fazer um cadastro no https://www.themoviedb.org/ e seguir a documentação do site para entender como gera uma API key https://developers.themoviedb.org/3/getting-started/introduction
 
-[Minha resolução do Desafio 4 - Index.js](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/index.ts)  
+[Minha solução para o Desafio 4 - Index.js](https://github.com/ancaroline/DIO-Desafios-API/blob/main/src/index.ts)  
 
-[Minha resolução do Desafio 4 - Index.html](https://github.com/ancaroline/DIO-Desafios-API/blob/main/index.html)
+[Minha solução para o Desafio 4 - Index.html](https://github.com/ancaroline/DIO-Desafios-API/blob/main/index.html)
 
 
